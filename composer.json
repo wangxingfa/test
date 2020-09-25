@@ -2,8 +2,9 @@
 "name":"wangxingfa/test",
 "description":"this is just a test,my first package",
 "type":"library",
-"version":"1.0.0",
+"version":"1.0.1",
 "license":"MIT",
+
 "keywords":[
 "louis",
 "test"
@@ -22,6 +23,7 @@
     },
     "require": {
         "php": ">=5.6.0"
-    }
+    },	
+"minimum-stability": "dev"
 	
 }
