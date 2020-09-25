@@ -2,6 +2,7 @@
 "name":"wangxingfa/test",
 "description":"this is just a test,my first package",
 "type":"library",
+"version":"1.0.0",
 "license":"MIT",
 "keywords":[
 "louis",
