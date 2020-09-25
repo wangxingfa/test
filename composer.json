@@ -1,0 +1,26 @@
+{
+"name":"wangxingfa/test",
+"description":"this is just a test,my first package",
+"type":"library",
+"license":"MIT",
+"keywords":[
+"louis",
+"test"
+],
+"authors":[
+{
+"name":"louis",
+"email":"935466680@qq.com"
+}
+],
+
+ "autoload": {
+        "psr-4": {
+            "Mytools\\":"Mytools"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0"
+    }
+	
+}
